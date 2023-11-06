@@ -1,0 +1,37 @@
+.panels-3wFtMD .container-YkUktl .flex-2S1XBF {
+    width: fit-content !important; 
+  }
+  
+  .panels-3wFtMD .container-YkUktl .avatarWrapper-1B9FTW {
+    width: 194px;
+    margin-right: 0px !important;
+  }
+  
+  .panels-3wFtMD .container-YkUktl .avatarWrapper-1B9FTW:hover {
+    margin-right: 8px !important;
+  }
+  
+  .panels-3wFtMD .container-YkUktl .flex-2S1XBF button[role="switch"] {
+    width: 0px;
+    overflow: hidden;
+    transition: all 0.3s;
+    left: 16px;
+  }
+  
+  .panels-3wFtMD .container-YkUktl .flex-2S1XBF:hover button[role="switch"] {
+    width: 32px;
+    overflow: visible;
+    transition: all 0.3s;
+    left: 0px;
+  }
+  
+  .panels-3wFtMD .container-YkUktl .flex-2S1XBF:not(:hover) button:not([role="switch"]) svg {
+    rotate: 360deg;
+    transition: rotate 0.3s;
+    background-color: var(--background-secondary-alt); /* might look off with some themes */
+  }
+  
+  .panels-3wFtMD .container-YkUktl .flex-2S1XBF:hover button:not([role="switch"]) svg {
+    rotate: 0deg;
+    transition: rotate 0.3s;
+  }

@@ -1,0 +1,52 @@
+#account-status-picker--online {
+    --brand-experiment-560: var(--green-360);
+}
+#account-status-picker--dnd {
+    --brand-experiment-560: var(--red-400);
+}
+#account-status-picker--idle {
+    --brand-experiment-560: var(--yellow-330);
+}
+#account-status-picker--invisible {
+    --brand-experiment-560: var(--primary-400);
+}
+#account .submenu_acf564 .separator__18122 {
+    display: none;
+}
+#account .submenu_acf564 .description_ea6680 {
+    height: fit-content;
+    overflow: hidden;
+    max-height: 0rem;
+    transition: .2s ease !important;
+    width: 100%;
+    flex: 0 0 100%;
+    display: flex;
+}
+#account .submenu_acf564 .item__183e8.focused__27621 .description_ea6680 {
+    max-height: 4rem;
+}
+.statusItem__72404 {
+    display: flex;
+    flex-wrap: wrap;
+}
+.statusItem__72404 .icon__37f95 {
+    margin-right: 10px;
+    flex: 0 0 10px;
+}
+.status__8c19b {
+    width: calc(100% - 20px);
+    display: flex;
+}
+#account-status-picker--idle .statusItem__72404::after {
+    content: "Active but idle/away.";
+    height: fit-content;
+    overflow: hidden;
+    max-height: 0rem;
+    transition: .2s ease !important;
+    width: 100%;
+    flex: 0 0 100%;
+    display: flex;
+}
+#account-status-picker--idle.focused__27621 .statusItem__72404::after {
+    max-height: 4rem;
+}

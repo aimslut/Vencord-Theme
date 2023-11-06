@@ -1,0 +1,28 @@
+/**
+ * @name Aimslut-Vencord-Theme
+ * @author aimslut
+ * @authorLink https://github.com/aimwife
+ * @description A modular Vencord theme.
+ * @license GPL-3.0
+ * @version 1.0
+ * @source https://github.com/aimwife/Vencord-Theme
+*/
+
+@import url("modules/align_channel_text.css");
+@import url("modules/better_folder_icons.css");
+@import url("modules/better_jump_to.css");
+@import url("modules/better_markdown_headers.css");
+@import url("modules/better_roles_layout.css");
+@import url("modules/better_status_picker.css");
+@import url("modules/better_stream_preview.css");
+@import url("modules/better_unread_pill.css");
+@import url("modules/remove_channel_icons.css");
+@import url("modules/remove_titlebar.css");
+@import url("modules/remove_useless_things.css");
+@import url("modules/show_masked_links.css");
+
+/* broken
+@import url("modules/better_user_controls.css");
+@import url("modules/better_voice_activity.css");
+@import url("modules/replace_x_with_twitter.css");
+*/
