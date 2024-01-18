@@ -17,9 +17,10 @@
 [class*=tryItOutSection_],
 [class*=upsellOverlayContainer_],
 
+/*
 [class*=profileEffects_],
 [class*=avatarDecoration_],
-[class*=premiumIconWrapper_],
+[class*=premiumIconWrapper_], */
 
 [class*=effectsWrapper_],
 [class*=burstGlow_],
@@ -32,21 +33,22 @@
 
 [class*=threadSuggestionBar_],
 [class*=popout_]:has(>[class*=more_]),
-
+/*
 #channel-context-invite-people,
 [class*=separator_]:has(+div>#guild-context-invite-people),
 #guild-context-invite-people,
+
 
 #user-context-invite-to-server,
 #user-context-call,
 #user-context-note,
 #user-context-add-friend-nickname,
-#user-context-close-dm,
+#user-context-close-dm,*/
 
 #message-actions>div>[class*=wrapper],
-#message-actions-add-reaction-0,
+/*#message-actions-add-reaction-0,
 #message-actions-edit,
-#message-actions-pin,
+#message-actions-pin,*/
 #message-actions-thread,
 #message-actions-mark-unread,
 #message-actions-copy-link,
@@ -58,7 +60,7 @@
 #message>div>[class*=wrapper_],
 #message-add-reaction-0,
 #message-edit,
-#message-pin,
+/*#message-pin,*/
 #message-thread,
 #message-mark-unread,
 #message-copy-link,

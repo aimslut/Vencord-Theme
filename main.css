@@ -16,13 +16,15 @@
 @import url("modules/better_status_picker.css");
 @import url("modules/better_stream_preview.css");
 @import url("modules/better_unread_pill.css");
-@import url("modules/remove_channel_icons.css");
 @import url("modules/remove_titlebar.css");
 @import url("modules/remove_useless_things.css");
 @import url("modules/show_masked_links.css");
+@import url("modules/hide_timestamp_hover.css");
+@import url("modules/change_font.css");
 
 /* broken
 @import url("modules/better_user_controls.css");
 @import url("modules/better_voice_activity.css");
+@import url("modules/remove_channel_icons.css");
 @import url("modules/replace_x_with_twitter.css");
 */

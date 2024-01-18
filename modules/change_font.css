@@ -1,0 +1,4 @@
+ /* custom fonts for names and titles */
+[class*="username_"], [class*="name__"], [class*="titleWrapper__"], [class*="title__"], [class="rtcConnectionStatus__"] {
+    font-family: "FZCuYuan-M03T";
+}
