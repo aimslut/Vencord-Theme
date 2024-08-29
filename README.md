@@ -1,8 +1,10 @@
 # Vencord-Theme
 My Vencord theme
 
-- download as zip
-- goes in here
-`C:\Users\Administrator\AppData\Roaming\Vencord\themes`
+- copy this
+  `https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/main.css`
+- in vencord, go to settings > themes > online themes
+- paste the link in there
 
-some things still need to be fixed / changed in order to make the changes more permanent ^.^'
+theme will auto-update when i make changes/fixes to this css file
+message me on discord if you have any issues: `rose`
