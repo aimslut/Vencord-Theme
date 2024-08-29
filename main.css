@@ -8,38 +8,19 @@
  * @source https://github.com/aimwife/Vencord-Theme
 */
 
-/* local files */
-@import url("modules/align_channel_text.css");
-@import url("modules/better_channels.css");
-@import url("modules/better_folder_icons.css");
-@import url("modules/better_jump_to.css");
-@import url("modules/better_markdown_headers.css");
-@import url("modules/better_quotes.css");
-/* @import url("modules/better_roles_layout.css"); */
-@import url("modules/better_status_picker.css");
-@import url("modules/better_stream_preview.css");
-@import url("modules/better_unread_pill.css");
-/* @import url("modules/hide_titlebar.css"); */
-@import url("modules/hide_useless_things.css");
-@import url("modules/show_masked_links.css");
-@import url("modules/hide_fav_icon.css");
-@import url("modules/hide_timestamp_hover.css");
-@import url("modules/change_font.css");
-
-/* online files */
-@import url("");
-@import url("");
-@import url("");
-@import url("");
-@import url("");
-@import url("");
-/* @import url(""); */
-@import url("");
-@import url("");
-@import url("");
-/* @import url(""); */
-@import url("");
-@import url("");
-@import url("");
-@import url("");
-@import url("");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/align_channel_text.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/better_channels.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/better_folder_icons.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/better_jump_to.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/better_markdown_headers.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/better_quotes.css");
+/* @import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/better_roles_layout.css"); */
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/better_status_picker.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/better_stream_preview.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/better_unread_pill.css");
+/* @import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/hide_titlebar.css"); */
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/hide_fav_icon.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/hide_timestamp_hover.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/hide_useless_things.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/show_masked_links.css");
+@import url("https://raw.githubusercontent.com/aimslut/Vencord-Theme/main/modules/change_font.css");
