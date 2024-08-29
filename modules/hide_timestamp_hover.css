@@ -1,3 +1,4 @@
+/* fade in */
 @keyframes fadein{
     0% { opacity:0; }
     100% { opacity:1; }
@@ -9,11 +10,11 @@
 }
 
 /* timestamp hover */
-[class*=" timestampInline__"] {
+[class*=" timestampInline_"] {
     opacity: 0;
 }
 
-[class*=" timestampInline__"]:hover {
+[class*=" timestampInline_"]:hover {
     -webkit-animation: 1s ease 0s normal forwards 1 fadein;
     animation: 1s ease 0s normal forwards 1 fadein;
 } 

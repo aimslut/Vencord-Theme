@@ -1,3 +1,4 @@
+/* hide a bunch of things */
 [class*=header_]:has(+[class*=premiumTab_]),
 [class*=premiumTab_],
 [class*=premiumTab_]+[class*=item_],
@@ -8,26 +9,29 @@
 
 [href="/store"],
 [href="/shop"],
+/* [href="/channels/@me"], */
 
 [href="https://support.discord.com"],
 
+/*
 #profile-customization-tab>[class*=container_],
 [class*=bannerNitroUpsell_],
 [class*=customizationSection_]:has(>h3>[class*=premiumBadge_]),
 [class*=tryItOutSection_],
-[class*=upsellOverlayContainer_],
+[class*=upsellOverlayContainer_], */
 
 /*
 [class*=profileEffects_],
 [class*=avatarDecoration_],
 [class*=premiumIconWrapper_], */
 
+/*
 [class*=effectsWrapper_],
 [class*=burstGlow_],
 
 [aria-label="Servers sidebar"]>ul>div>[aria-label="Servers"]~[class*=listItem_],
 
-[aria-label="Channels"]>[aria-label$="perks!"],
+[aria-label="Channels"]>[aria-label$="perks!"], */
 
 .messagelogger-edited,
 
@@ -45,10 +49,11 @@
 #user-context-add-friend-nickname,
 #user-context-close-dm,*/
 
+/*
 #message-actions>div>[class*=wrapper],
 /*#message-actions-add-reaction-0,
 #message-actions-edit,
-#message-actions-pin,*/
+#message-actions-pin,
 #message-actions-thread,
 #message-actions-mark-unread,
 #message-actions-copy-link,
@@ -60,7 +65,7 @@
 #message>div>[class*=wrapper_],
 #message-add-reaction-0,
 #message-edit,
-/*#message-pin,*/
+#message-pin,
 #message-thread,
 #message-mark-unread,
 #message-copy-link,
@@ -71,7 +76,7 @@
 
 [aria-label="Create Invite"],
 [aria-label="Invite to Server"],
-
+*/
 [aria-label="Send a gift"],
 
 [aria-label="Mark Unread"],

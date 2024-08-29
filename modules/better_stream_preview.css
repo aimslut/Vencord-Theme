@@ -1,7 +1,8 @@
+/* better stream preview */
 [class*=streamPreview-]:not([class*=content-]) {
-    width: 504px;
-  }
-  
-  [class*=previewContainer-] {
-    height: 284px;
-  }
+  width: 504px;
+}
+
+[class*=previewContainer-] {
+  height: 284px;
+}

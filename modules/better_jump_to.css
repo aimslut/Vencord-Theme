@@ -1,4 +1,4 @@
-/* Jump To Present Bar Revamp */
+/* jump to present */
 [class*="jumpToPresentBar"] {
     display: contents;
 }
