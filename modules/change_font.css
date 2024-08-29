@@ -1,4 +1,9 @@
- /* custom fonts for names and titles */
+/* custom fonts for names and titles */
+@font-face {
+    font-family: "FZCuYuan-M03T";
+    src: url('https://github.com/aimslut/Vencord-Theme/raw/main/modules/FZ%20CU%20YUAN%20M03T.TTF') format('truetype');
+}
+
 [class*="username_"], [class*="name_"], [class*="titleWrapper_"], [class*="title_"], [class="rtcConnectionStatus_"] {
     font-family: "FZCuYuan-M03T";
 }
