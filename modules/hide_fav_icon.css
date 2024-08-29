@@ -1,0 +1,8 @@
+/* hide fav icon */
+[class*="favoriteIcon_"] {
+    display: none;
+}
+
+[class="favoriteIcon_dcc7a4"] {
+    display: block;
+}
